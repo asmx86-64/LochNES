@@ -1,7 +1,7 @@
 # LochNES
 A simple NES emulator in C++
 
-# Build
+## Build
 ```
 mkdir build
 cd build
